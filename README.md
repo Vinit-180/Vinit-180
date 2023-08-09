@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vinit Chokshi</h1>
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning MERN Stack
 
 - 📫 How to reach me **vinitchokshi1809@gmail.com**
 
