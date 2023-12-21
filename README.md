@@ -1,9 +1,29 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img>, I'm Vinit Chokshi</h1>
 💫 About Me:
-<br>🔭 I’m currently working on Appointement System<br>🌱 I’m currently learning <b>MERN Stack And Data Science</b><br>
-📫 How to reach me <b>vinitchokshi1809@gmail.com</b>
 
+  - 🔭  I’m currently working on Appointement System.
+  
+  - 🌱  I’m currently learning <b>MERN Stack And Data Science</b>.
 
+  
+ 👨‍💻 Programming Languages:
+  - 🚀 Proficient in Core C++, Python and C.
+  
+  - 💡 Knowledge of object-oriented programming (OOPS) principles.
+  
+  📚 Data Structures and Algorithms (DSA):
+  
+  - 📚 Eager to enhance problem-solving skills through learning DSA.
+    
+  🧲  Networking and Learning:
+  - 🌐 Passionate about connecting with fellow tech enthusiasts.
+  
+  - 🤝 Let's collaborate, share knowledge, and explore the ever-evolving tech world together.
+  
+  - 📈 Committed to continuous learning and professional growth.
+    
+  - 📫  How to reach me <b>vinitchokshi1809@gmail.com</b>
+  
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vinit-chokshi-9728ab229/) 
 
