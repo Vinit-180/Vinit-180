@@ -45,5 +45,4 @@ I am proficient in deploying, managing, and scaling applications in the cloud, e
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vinit-180&show_icons=true&locale=en" alt="vinit-180" /></p>
 
 
-![image title](https://rushter.com/counter.svg)
-
+![](https://komarev.com/ghpvc/?username=Vinit-180)
