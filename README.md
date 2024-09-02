@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vinit Chokshi</h1>
-<h3 align="center">Software Developer/ Full Stack Developer</h3>
+<h3 align="center">Software Engineer/ Full Stack Developer</h3>
 
 - 🌱 I’m currently learning **AWS Solution Architect**
 
@@ -22,7 +22,7 @@ I have a strong foundation in building robust and efficient backends, focusing o
 **🚀 DevOps & Cloud Services**  
 I am proficient in deploying, managing, and scaling applications in the cloud, ensuring smooth CI/CD pipelines and reliable infrastructure. My competencies include:
 
-- **☁️ AWS Services (S3, EC2, Lambda, DynamoDB):** Orchestrating cloud environments with a focus on cost-efficiency and high availability.
+- **☁️ AWS Services (S3, EC2, Lambda, DynamoDB,RDS, ECR, EKS and more):** Orchestrating cloud environments with a focus on cost-efficiency and high availability.
 - **🐳 Docker & Kubernetes:** Containerizing applications for consistent environments across development, testing, and production.
 - **🔄 CI/CD (Jenkins, GitHub Actions):** Automating builds, tests, and deployments for streamlined development workflows.
 - **🔧 Git & GitHub:** Version control and collaboration with a focus on clean, organized repositories.
