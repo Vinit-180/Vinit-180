@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vinit Chokshi</h1>
 <h3 align="center">Software Engineer/ Full Stack Developer</h3>
 
-- 🌱 I’m currently learning **AWS Solution Architect**
-
 ### 🛠️ My Expertise:
 
 **🎨 Frontend Development**  
