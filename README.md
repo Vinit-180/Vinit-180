@@ -7,7 +7,7 @@
 I specialize in crafting dynamic and interactive user interfaces using modern frameworks:
 
 - **⚛️ React.js:** Building scalable UIs with state management and component-based architecture.
-- **💻 JavaScript (ES6+):** Creating interactive web elements with modern JavaScript features.
+- **💻 JavaScript (ES6+) and TypeScript:** Creating interactive web elements with modern JavaScript and TypeScript features.
 
 **🔧 Backend Development**  
 I have a strong foundation in building robust and efficient backends, focusing on security, scalability, and performance. My skill set includes:
