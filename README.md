@@ -1,35 +1,35 @@
-<h1 align="center">Hi 👋, I'm Vinit Chokshi</h1>
-<h3 align="center">Software Engineer/ Full Stack Developer</h3>
+<h1 align="center">Hi 👋, I'm Vinit</h1>
+<h3 align="center">Software Engineer</h3>
+
+
+### 📊 About Me
+- CS Grad
+- oftware Developer | Backend Focused | DevOps Enthusiast
+- SIH'24 Hackathon finalist & winner (Maverick Effect, Hackout'24)
+- Passionate about building scalable, cloud-native applications
+
 
 ### 🛠️ My Expertise:
+### 🛠️ My Expertise:
 
-**🎨 Frontend Development**  
-I specialize in crafting dynamic and interactive user interfaces using modern frameworks:
-
-- **⚛️ React.js:** Building scalable UIs with state management and component-based architecture.
-- **💻 JavaScript (ES6+) and TypeScript:** Creating interactive web elements with modern JavaScript and TypeScript features.
-
-**🔧 Backend Development**  
-I have a strong foundation in building robust and efficient backends, focusing on security, scalability, and performance. My skill set includes:
-
-- **🌐 Node.js & Express.js:** Developing RESTful APIs and server-side applications.
-- **🐍 Python & Django/Flask:** Designing secure and scalable backends with ORM and middleware integration.
-- **🗄️ SQL & MySQL:** Implementing relational databases for structured data management.
-- **🍃 MongoDB:** Implementing NoSQL databases for scalable data storage.
-
-**🚀 DevOps & Cloud Services**  
-I am proficient in deploying, managing, and scaling applications in the cloud, ensuring smooth CI/CD pipelines and reliable infrastructure. My competencies include:
-
+- **⚛️ React.js & Next.js:** Crafting dynamic, scalable frontends with modern component-based architecture and SSR support.
+- **🌀 Tailwind CSS, HTML5 & CSS3:** Styling responsive UIs with utility-first design principles.
+- **💻 JavaScript (ES6+) & TypeScript:** Building reliable and maintainable codebases with static typing and modern JS features.
+- **🌐 Node.js, Express.js & NestJS:** Developing modular, scalable, and type-safe backend services and REST APIs.
+- **🐍 Python (Django & Flask):** Building secure, production-grade web applications with ORM, middleware, and API support.
+- **🔗 WebSocket:** Real-time communication for interactive applications and live updates.
+- **🧠 Go (Golang):** Familiarity with writing concurrent and efficient backend code.
+- **🗄️ MongoDB, MySQL, DynamoDB, PostgreSQL:** Managing both relational and NoSQL databases with efficient schema design and query optimization. 
 - **☁️ AWS Services (S3, EC2, Lambda, DynamoDB,RDS, ECR, EKS and more):** Orchestrating cloud environments with a focus on cost-efficiency and high availability.
-- **🐳 Docker & Kubernetes:** Containerizing applications for consistent environments across development, testing, and production.
-- **🔄 CI/CD (Jenkins, GitHub Actions):** Automating builds, tests, and deployments for streamlined development workflows.
-- **🔧 Git & GitHub:** Version control and collaboration with a focus on clean, organized repositories.
+- **🐳 Docker & Kubernetes:** Containerizing and orchestrating deployments across environments.
+- **🔄 CI/CD (GitHub Actions, Jenkins):** Streamlining development with automated testing and deployments.
+- **🔧 Git, GitHub, Postman & Supabase:** Version control, API testing, and backend-as-a-service tools for streamlined development.
 
 - 📫 How to reach me **vinitchokshi1809@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/vinitchokshi3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vinitchokshi3" height="30" width="40" /></a>
+<a href="https://x.com/vinitchokshi3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vinitchokshi3" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vinitchokshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinitchokshi" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/vinit180" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/vinit180" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/vinit180" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vinit180" height="30" width="40" /></a>
